@@ -2,4 +2,8 @@ line1
 lin e2gi
 line 3
 vdvd
+cleline1
+lin e2gi
+line 3
+vdvd
 cle
